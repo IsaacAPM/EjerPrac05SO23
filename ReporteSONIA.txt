@@ -1,0 +1,10 @@
+ESTADO DE CUENTA
+
+Mi nombre es: SONIA
+Mi id es: 300
+Lista de movimientos:
+Id: TC300 Monto: 400.0
+Id: CH972 Monto: 250.0
+Id: CH987 Monto: 555.0
+Tiempo de ejecución: 36 ms
+

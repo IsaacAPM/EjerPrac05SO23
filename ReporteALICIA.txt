@@ -1,0 +1,9 @@
+ESTADO DE CUENTA
+
+Mi nombre es: ALICIA
+Mi id es: 900
+Lista de movimientos:
+Id: CH226 Monto: 100.3
+Id: CH544 Monto: 445.31
+Tiempo de ejecución: 35 ms
+

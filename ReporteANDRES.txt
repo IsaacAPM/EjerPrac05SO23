@@ -1,0 +1,10 @@
+ESTADO DE CUENTA
+
+Mi nombre es: ANDRES
+Mi id es: 400
+Lista de movimientos:
+Id: CH001 Monto: 239.0
+Id: CH002 Monto: 345.9
+Id: CH330 Monto: 3000.58
+Tiempo de ejecución: 35 ms
+

@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.ArrayList;
 
 public class EdoCtaClientes{
     public static void main(String[] arg){
@@ -10,6 +11,8 @@ public class EdoCtaClientes{
 	FileReader fr2 = null;
 	BufferedReader br2 = null;
 
+	ArrayList<Cliente> clientes = new ArrayList<Cliente>();
+	
 	try{
 	    archivo = new File("clientes.txt");
 	    fr = new FileReader(archivo);
@@ -31,8 +34,30 @@ public class EdoCtaClientes{
 		    }
 		}
 		fr2.close();
-		System.out.println(cliente.toString());
+		//System.out.println(cliente.toString());
+		clientes.add(cliente);
 	    }
+	    
+	    MovimientosCliente[] movs = new MovimientosCliente[clientes.size()];
+
+	    for(int i=0;i<clientes.size();i++){
+		MovimientosCliente aux = new MovimientosCliente(clientes.get(i));
+		movs[i] = aux;
+	    }
+
+	    for(int j=0;j<clientes.size();j++){
+		movs[j].start();
+	    }
+
+	    boolean band = true;
+
+	    while(band){
+		band = false;
+		for(int k=0;k<clientes.size();k++){
+		    band = band || movs[k].isAlive();
+		}
+	    }
+	    System.out.println("Terminamos\n");
 	}catch(Exception e){
 	    e.printStackTrace();
 	}finally{

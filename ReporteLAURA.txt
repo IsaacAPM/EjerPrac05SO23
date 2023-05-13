@@ -1,0 +1,9 @@
+ESTADO DE CUENTA
+
+Mi nombre es: LAURA
+Mi id es: 100
+Lista de movimientos:
+Id: CH400 Monto: 1000.0
+Id: TC223 Monto: 230.0
+Tiempo de ejecución: 36 ms
+

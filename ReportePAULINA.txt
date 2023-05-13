@@ -1,0 +1,9 @@
+ESTADO DE CUENTA
+
+Mi nombre es: PAULINA
+Mi id es: 500
+Lista de movimientos:
+Id: CH545 Monto: 700.0
+Id: CH444 Monto: 879.0
+Tiempo de ejecución: 35 ms
+

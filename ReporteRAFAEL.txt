@@ -1,0 +1,10 @@
+ESTADO DE CUENTA
+
+Mi nombre es: RAFAEL
+Mi id es: 700
+Lista de movimientos:
+Id: CH329 Monto: 765.89
+Id: CH210 Monto: 1066.0
+Id: TC299 Monto: 999999.0
+Tiempo de ejecución: 34 ms
+

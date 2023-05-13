@@ -1,0 +1,11 @@
+ESTADO DE CUENTA
+
+Mi nombre es: PEDRO
+Mi id es: 200
+Lista de movimientos:
+Id: CH960 Monto: 500.0
+Id: TC431 Monto: 876.55
+Id: CH200 Monto: 431.12
+Id: TC221 Monto: 948.9
+Tiempo de ejecución: 36 ms
+

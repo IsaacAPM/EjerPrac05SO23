@@ -1,0 +1,10 @@
+ESTADO DE CUENTA
+
+Mi nombre es: LUCIO
+Mi id es: 600
+Lista de movimientos:
+Id: TC111 Monto: 12060.0
+Id: TC564 Monto: 980.0
+Id: TC433 Monto: 6.9
+Tiempo de ejecución: 34 ms
+

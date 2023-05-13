@@ -1,0 +1,9 @@
+ESTADO DE CUENTA
+
+Mi nombre es: VERONICA
+Mi id es: 800
+Lista de movimientos:
+Id: TC777 Monto: 400.0
+Id: CH879 Monto: 321.23
+Tiempo de ejecución: 34 ms
+
