@@ -1,0 +1,8 @@
+public class Prueba{
+    public static void main(String[] args){
+	Cliente cliente = new Cliente("Maria",1);
+	Movimiento movimiento = new Movimiento("A14",125.3);
+	cliente.agregaMovimiento(movimiento);
+	System.out.println(cliente.toString());
+    }
+}
